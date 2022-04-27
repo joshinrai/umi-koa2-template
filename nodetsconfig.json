@@ -1,0 +1,14 @@
+{
+  "name": "ts-2-js",
+  "compilerOptions": {
+    "target": "es5",
+    "module": "esnext",
+    "strict": true,
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "outDir": "./lib"
+  },
+  "include": [
+    "server/**/*"
+  ]
+}

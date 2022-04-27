@@ -1,0 +1,8 @@
+server:
+  port: 3000
+  useMock: false
+
+service:
+  test: http://baidu.com
+  host: http://baidu.com
+  api: http://baidu.com
